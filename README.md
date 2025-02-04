@@ -4,6 +4,7 @@
 <p></br> I'm Dro, Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197391.png" width="13"/> <b>Abidjan, Côte d'Ivoire</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Nantes, France</b>. </p>
 <h3>Things I like ♥</h3>
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3d74a3?style=flat-square&logo=python&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-ff9c08?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1072d8?style=flat-square&logo=docker&logoColor=white" />
