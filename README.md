@@ -14,4 +14,4 @@
 </p>
 
 <h3>🌱 Beyond the code</h3>
-I’m passionate about <b>sustainability</b>, <b>politics</b>, and <b>swimming</b> — and I believe tech should move the world forward.
+I’m passionate about <b>sustainability</b>, <b>politics</b>, and <b>swimming</b>.
