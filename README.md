@@ -7,7 +7,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3d74a3?style=flat-square&logo=python&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Artificial_Intelligence-333?style=flat-square&logo=openai&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-ee8b07?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1072d8?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-1082a7?style=flat-square&logo=react&logoColor=white" />
