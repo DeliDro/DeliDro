@@ -15,6 +15,4 @@
 </p>
 
 <h3>🌱 Beyond the code</h3>
-I’m passionate about **sustainability**, **politics**, and **swimming** — and I believe tech should move the world forward.  
-
-> _Make things change, make the world move on._  
+I’m passionate about **sustainability**, **politics**, and **swimming** — and I believe tech should move the world forward.
